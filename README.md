@@ -7,8 +7,11 @@ This is my first UIKit and first ObjC application, the code and storyboard quali
 ## Current State
 ![current state](https://s2.loli.net/2021/12/27/HKNFUo5a8xIYOwf.png)
 
-## Usage 
-Simply clone this repo and build in Xcode or with ```xcodebuild```.
+## Installation
+A app image is yet missing, so you still have to build and move the resulting binary yourself. 
+
+## Building 
+Simply clone this repo and build in Xcode or use ```xcodebuild``` in the cloned repo.
 
 ## TODO
 - tidy up code
